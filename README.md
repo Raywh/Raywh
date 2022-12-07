@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Raywh
+- 👀 I am a front-end engineer, graduated in 2019, majoring in computer science and technology, and technology stack is vue, js, css, etc.
+- 👀 I am interested in many fields, especially new technology, economy and even fine arts.
+- 🌱 I’m currently learning vue3,canvas,h5.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me --2256896349@qq.com
